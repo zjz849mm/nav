@@ -42,7 +42,7 @@
 
 [谁在使用？](https://official.nav3.cn/?id=3)
 
-## 特性
+## 特 性
 
 - 🍰 内置 `800+` 优质网站
 - 🍰 支持 [码云 Gitee](https://gitee.com/xiejiahe/nav)
